@@ -11,7 +11,7 @@ Installation
 
 Clone the repository:
 bash
-git clone https://github.com/your-username/Plant_Disease_Detection.git
+git clone https://github.com/SandeepLimbure/Plant_Disease_Detection.git
 cd Plant_Disease_Detection
 
 Install dependencies:
