@@ -131,6 +131,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Community**: Inspired by the agricultural and machine learning communities working to solve real-world problems.
 
 ## Contact
-For questions or feedback, feel free to open an issue on GitHub or reach out to the project maintainer at [your-email@example.com].
+For questions or feedback, feel free to open an issue on GitHub or reach out to the project maintainer at [sandeeplimbure@gmail.com].
 
 Happy farming and disease detection! 🌱
